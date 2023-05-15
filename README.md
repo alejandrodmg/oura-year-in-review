@@ -5,3 +5,5 @@ This repository contains the R code for replicating the graphics and metrics sho
 - `sleep_data.csv`: This is the main data source for all the slep data presented in the report. It was collected from Jan, 1st 2022 to Dec, 31st 2022 using an Oura Ring device.
 
 **Note:** I would highly recommend to run the code using the R project in the repo (`oura-year-in-review.Rproj`) so you don't need to deal with file paths.
+
+![Sleeping Through 2022: A Year in Review](SleepingThrough2022.png)
